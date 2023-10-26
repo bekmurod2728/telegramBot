@@ -22,6 +22,7 @@ public class Main3 {
         System.out.println(sum);
         System.out.println("commite name saved");
         System.out.println("conflickt");
+        System.out.println(100000);
     }
 }
 
