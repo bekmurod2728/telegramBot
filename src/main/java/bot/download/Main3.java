@@ -20,6 +20,7 @@ public class Main3 {
                 }else sum++;
             }
         System.out.println(sum);
+        System.out.println("commite name saved");
     }
 }
 
