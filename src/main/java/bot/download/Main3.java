@@ -19,6 +19,7 @@ public class Main3 {
                     sum+=2;
                 }else sum++;
             }
+        System.out.println(sum);
     }
 }
 
