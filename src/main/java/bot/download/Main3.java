@@ -24,6 +24,7 @@ public class Main3 {
         System.out.println("conflickt");
         System.out.println(100000);
         System.out.println("gggggggg");
+        System.out.println("sadfsdf");
     }
 }
 
