@@ -26,6 +26,7 @@ public class Main3 {
         System.out.println(66667);
         System.out.println("gggggggg");
         System.out.println("sadfsdf");
+        System.out.println(999999);
     }
 }
 
