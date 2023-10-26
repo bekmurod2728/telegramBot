@@ -21,9 +21,7 @@ public class Main3 {
             }
         System.out.println(sum);
         System.out.println("commite name saved");
-        System.out.println(25*59);
-        System.out.println(5236654+355666);
-        System.out.println("all file");
+        System.out.println("conflickt");
     }
 }
 
