@@ -2,6 +2,7 @@
 /all fine
 
 HELP.md
+/second
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
